@@ -81,7 +81,7 @@ gj-node-test-01
 
 Words of wisdom "Standard_D2 is 2CPU 7GB RAM node", think if you actually need that. Test your app whether it is CPU, Disk or RAM greedy.
 
-# Docker for EmailStudio
+# Deploy EmailStudio
 
 login to "your" azure registry: ```docker login cacidocker-caciuk.azurecr.io -u <username> -p <password>```
 
